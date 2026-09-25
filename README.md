@@ -1,2 +1,2 @@
 # data_centric_programming
-Labs | Python
+Labs | Tutorials | Python
